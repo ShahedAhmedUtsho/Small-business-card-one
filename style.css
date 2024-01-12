@@ -18,7 +18,8 @@ body{
     height: 100vh;
 }
 .flex-container{
-    width: 390px;
+    transform: scale(1.2);
+    width: 390px ;
     height: 500px;
     border-radius: 16px;
     position: relative;
@@ -55,8 +56,8 @@ body{
 }
 .flex-info p{
     font-family: 'lato', sans-serif;
-    font-weight:300;
-    font-size: 16px;
+    font-weight:400;
+    font-size: 15px;
     color: #677489;
     margin-top: 10px;
     line-height: 23px;
